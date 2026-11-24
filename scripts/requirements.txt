@@ -1,0 +1,5 @@
+# Primary engine used by the PDF extraction commands
+pymupdf>=1.23.0
+
+# pypdfium2 is an optional alternate renderer, not required for normal use.
+# pdfplumber was previously imported but is not used by this implementation.
